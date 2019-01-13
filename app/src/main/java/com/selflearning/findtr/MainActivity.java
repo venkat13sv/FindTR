@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
   {
       tv1.setText(msg);
       String delegate = "hh:mm aaa";
-      Log.v("time",DateFormat.format(delegate, Calendar.getInstance().getTime()).toString().replace(" ",""));
+
 
       if(trainNumber.getText().toString().equals(""))
           tv1.setText("Please Enter a Train Number");
