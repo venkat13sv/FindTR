@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="cameraDemoActivity" type="CLASS" />
+      <mapping pattern="dimes" type="XML" />
+      <mapping pattern="Keyboardservice" type="XML" />
+    </extensionMap>
+  </component>
+</application>
